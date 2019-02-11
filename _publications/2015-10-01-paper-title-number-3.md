@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Persisting Water Droplets on Water Surfaces"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: 'Droplets of various liquids may float on the respective surfaces for extended periods of time prior to coalescence. We explored the features of delayed coalescence in highly purified water.'
+date: 2010-10-20
+venue: 'Journal of Physical Chemistry'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'I. S. Klyuzhin, F. Ienna, B. Roeder, A. Wexler, G. H. Pollack (2010). &quot;Persisting Water Droplets on Water Surfaces.&quot; <i>J. Phys. Chem. B</i>. 114(44), pp. 14020-7.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Droplets of various liquids may float on the respective surfaces for extended periods of time prior to coalescence. We explored the features of delayed coalescence in highly purified water. Droplets several millimeters in diameter were released from a nozzle onto a water surface. Results showed that droplets had float times up to hundreds of milliseconds. When the droplets did coalesce, they did so in stepwise fashion, with periods of quiescence interspersed between periods of coalescence. Up to six steps were noted before the droplet finally vanished. Droplets were released in a series, which allowed the detection of unexpected abrupt float-time changes throughout the duration of the series. Factors such as electrostatic charge, droplet size, and sideways motion had considerable effect on droplet lifetime, as did reduction of pressure, which also diminished the number of steps needed for coalescence. On the basis of present observations and recent reports, a possible mechanism for noncoalescence is considered.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Your Name, You. (2015). "Persisting Water Droplets on Water Surfaces." <i>Journal 1</i>. 1(3).
+ -->
