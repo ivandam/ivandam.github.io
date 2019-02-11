@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ivan S. Klyuzhin, PhD"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Developing computational methods to understand and detect diseases. Focus on Parkinson's disease, image analysis and machine learning."
   location         : "Vancouver, BC"
   employer         :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ivan-s-klyuzhin/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
