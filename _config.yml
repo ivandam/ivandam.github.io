@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ivan Klyuzhin"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Personal webpage"
