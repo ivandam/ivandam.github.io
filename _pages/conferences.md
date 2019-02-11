@@ -8,7 +8,7 @@ redirect_from:
 
 M. A. Sacheli, B. Lakhani, J. L. Neva, D. K. Murray, N. Vafai, J. McKenzie, N. Neilson, K. Dinelle, **I. S. Klyuzhin**, L. A. Boyd, V. Sossi, A. J. Stoessl, “Aerobic exercise can induce dopamine release in Parkinson’s disease: [11C]Raclopride PET study“, 2016 Neuroscience Meeting, Program No. 415.28. San Diego, CA: Society for Neuroscience, Nov 14, 2016.
 
-**I. Klyuzhin**, J. Fu, N. Shenkov, A. Rahmim, V. Sossi, “Sub-regional pattern analysis of heterogeneous PET tracer distribution employed for disease assessment”, 2016 IEEE Nuclear Science Symposium and Medical Imaging (NSS/MIC) Conference Record, Strasbourg, France, Nov 2, 2016.
+__I. Klyuzhin__, J. Fu, N. Shenkov, A. Rahmim, V. Sossi, **“Sub-regional pattern analysis of heterogeneous PET tracer distribution employed for disease assessment”**, 2016 IEEE Nuclear Science Symposium and Medical Imaging (NSS/MIC) Conference Record, Strasbourg, France, Nov 2, 2016.
 
 **I. Klyuzhin**, V. Sossi, “Nuclear Emission-based Imaging in the Study of Brain Function”, Fall Meeting of the APS Division of Nuclear Physics, Vancouver, BC, Oct 16, 2016.
 
