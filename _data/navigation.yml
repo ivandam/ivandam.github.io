@@ -6,6 +6,9 @@ main:
   - title: "Conference presentations"
     url: /talks/    
 
+  - title: "Conferences"
+    url: /conferences/
+
  # - title: "Teaching"
  #   url: /teaching/    
     
