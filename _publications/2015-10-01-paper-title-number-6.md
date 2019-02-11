@@ -2,7 +2,7 @@
 title: "Exploring the use of shape and texture descriptors of positron emission tomography tracer distribution in imaging studies of neurodegenerative disease"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-6
-excerpt: 'Positron emission tomography (PET) data related to neurodegeneration are most often quantified using methods based on tracer kinetic modeling. In contrast, here we investigate the ability of geometry and texture-based metrics that are independent of kinetic modeling to convey useful information on disease state.'
+excerpt: "Positron emission tomography (PET) data related to neurodegeneration are most often quantified using methods based on tracer kinetic modeling. In contrast, here we investigate the ability of geometry and texture-based metrics that are independent of kinetic modeling to convey useful information on disease state."
 date: 2015-10-06
 venue: 'Journal of Cerebral Blood Flow and Metabolism'
 paperurl: 'https://journals.sagepub.com/doi/10.1177/0271678X15606718'
