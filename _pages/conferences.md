@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /conferences/
+title: "Conferences"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /conferences/
+  - /conferences.html
 ---
 
 ### Conferences!!!
