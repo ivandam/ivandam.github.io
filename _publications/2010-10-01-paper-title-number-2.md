@@ -3,7 +3,7 @@ title: "New Method of Water Purification Based on the Particle-Exclusion Phenome
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Colloidal particles in suspension are excluded from the vicinity of various hydrophilic surfaces. On the basis of this phenomenon, a novel method of water purification is proposed and tested.'
-date: 2008-00-00
+date: 2008-07-11
 venue: 'Environmental Science and Technology'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/es703159q'
 citation: 'I. Klyuzhin, A. Symonds, J. Magula, G. H. Pollack (2008). &quot;New Method of Water Purification Based on the Particle-Exclusion Phenomenon.&quot; <i>Environ. Sci. Technol.</i> 42(16), pp. 6160-6.'
