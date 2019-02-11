@@ -2,7 +2,7 @@
 title: "Unexpected water flow through Nafion-tube punctures"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
-excerpt: 'When a Nafion tube is immersed in water and a small hole is punched in the tube's wall, an unexpected phenomenon occurs: Water flows continuously into the tube through the hole.'
+excerpt: "When a Nafion tube is immersed in water and a small hole is punched in the tube's wall, an unexpected phenomenon occurs: Water flows continuously into the tube through the hole."
 date: 2011-05-04
 venue: 'Physical Review E'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3192024/'
