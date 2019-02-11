@@ -85,7 +85,7 @@ author:
   bio              : "Developing computational methods to understand and detect diseases. Focus on Parkinson's disease, image analysis and machine learning."
   location         : "Vancouver, BC"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
