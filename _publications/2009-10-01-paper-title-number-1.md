@@ -3,7 +3,7 @@ title: "A Correlation between Mechanical and Electrical Properties of the Synthe
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The correlation between the electrochemical (Donnan) potential and volume swelling was studied for synthetic polyelectrolyte hydrogels considered as models of cytoskeleton gel-forming biopolymers'
-date: 2008
+date: 2008-03-08
 venue: 'Biophysics'
 paperurl: 'https://link.springer.com/article/10.1134/S0006350908060146'
 citation: 'T. F. Shklyar, A. P. Safronov, I. S. Klyuzhin, G. Pollack, F. A. Blyakhman (2008). &quot;A Correlation between Mechanical and Electrical Properties of the Synthetic Hydrogel Chosen as an Experimental Model of Cytoskeleton&quot; <i>Biophysics</i>. 53(6), pp. 544-9'
