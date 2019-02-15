@@ -15,8 +15,8 @@ https://doi.org/10.1371/journal.pone.0206607
 Keywords: ?
 
 Klyuzhin, I. S., Fu, J. F., Shenkov, N., Rahmim, A., & Sossi, V. (2018). **Use of Generative Disease Models for Analysis and Selection of Radiomic Features in PET**. IEEE Transactions on Radiation and Plasma Medical Sciences, 1–1. 
-https://doi.org/10.1109/TRPMS.2018.2844171
-*Keywords:*Machine learning, Computational modeling, Image analysis, Feature selection, Biomedical imaging, Radiomics, Generative models, Positron emission tomography, Parkinson, Disease.
+<https://doi.org/10.1109/TRPMS.2018.2844171>
+**Keywords:** Machine learning, Computational modeling, Image analysis, Feature selection, Biomedical imaging, Radiomics, Generative models, Positron emission tomography, Parkinson, Disease.
 
 Klyuzhin, I. S., & Sossi, V. (2017). **PET Image Reconstruction and Deformable Motion Correction Using Unorganized Point Clouds**. IEEE Transactions on Medical Imaging, 36(6), 1263–1275. 
 https://doi.org/10.1109/TMI.2017.2675989
