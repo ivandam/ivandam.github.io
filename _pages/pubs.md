@@ -19,23 +19,23 @@ Klyuzhin, I. S., Fu, J. F., Shenkov, N., Rahmim, A., & Sossi, V. (2018). **Use o
 <small>*Keywords: Machine learning, Computational modeling, Image analysis, Feature selection, Biomedical imaging, Radiomics, Generative models, Positron emission tomography, Parkinson, Disease.*</small>
 
 Klyuzhin, I. S., & Sossi, V. (2017). **PET Image Reconstruction and Deformable Motion Correction Using Unorganized Point Clouds**. IEEE Transactions on Medical Imaging, 36(6), 1263–1275. 
-<https://doi.org/10.1109/TMI.2017.2675989>
+<https://doi.org/10.1109/TMI.2017.2675989>  
 *Keywords: Image reconstruction, Deformation modeling, Point clouds, Meshfree methods, Algorithm design, Maximum likelihood, Expectation maximization, Motion correction, Positron emission tomography.*
 
 Klyuzhin, I. S., Gonzalez, M., Shahinfard, E., Vafai, N., & Sossi, V. (2016). **Exploring the use of shape and texture descriptors of positron emission tomography tracer distribution in imaging studies of neurodegenerative disease**. Journal of Cerebral Blood Flow and Metabolism, 36(6), 1122–1134. 
-<https://doi.org/10.1177/0271678X15606718>
+<https://doi.org/10.1177/0271678X15606718>  
 *Keywords: Image analysis, Feature selection, Data mining, Statistical analysis, Image fusion, Multimodality imaging, Region of interest definition, Positron emission tomography, MRI, Brain, Parkinson, Disease.*
 
 Rahmim, A., Salimpour, Y., Jain, S., Blinder, S. A. L., Klyuzhin, I. S., Smith, G. S., … Sossi, V. (2016). **Application of texture analysis to DAT SPECT imaging: Relationship to clinical assessments**. NeuroImage: Clinical, 12, e1–e9. 
-<https://doi.org/10.1016/j.nicl.2016.02.012>
+<https://doi.org/10.1016/j.nicl.2016.02.012>. 
 *Keywords: Image analysis, Textural features, Heterogeneity analysis, Feature selection, Regression analysis, Disease progression, SPECT, Parkinson, Disease.*
 
 O’Rourke, C., Klyuzhin, I., Park, J. S., & Pollack, G. H. (2011). **Unexpected water flow through Nafion-tube punctures**. Physical Review E - Statistical, Nonlinear, and Soft Matter Physics, 83(5). 
-<https://doi.org/10.1103/PhysRevE.83.056305>
+<https://doi.org/10.1103/PhysRevE.83.056305>. 
 *Keywords: Optical microscopy, Hydrodynamics, Flow characterization, Microfluidics, Bioengineering, Statistical analysis, Polymer chemistry.*
 
 Klyuzhin, I. S., Ienna, F., Roeder, B., Wexler, A., & Pollack, G. H. (2010). **Persisting water droplets on water surfaces**. Journal of Physical Chemistry B, 114(44), 14020–14027. 
-<https://doi.org/10.1021/jp106899k>
+<https://doi.org/10.1021/jp106899k>. 
 *Keywords: Instrumentation design, Optical imaging, Physics of interfaces, Liquid non-coalescence, Hydrodynamics, Interfacial water, Hydroplanning*
 
 Klyuzhin, I., Symonds, A., Magula, J., & Pollack, G. H. (2008). **New method of water purification based on the particle-exclusion phenomenon**. Environmental Science and Technology, 42(16), 6160–6166. 
