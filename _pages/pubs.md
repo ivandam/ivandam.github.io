@@ -6,14 +6,17 @@ redirect_from:
   - /conferences.html
 ---
 
-Fu, J. F., <u>Klyuzhin</u>>, I., Liu, S., Shahinfard, E., Vafai, N., McKenzie, J., … Sossi, V. (2018). **Investigation of serotonergic Parkinson’s disease-related covariance pattern using [11C]-DASB/PET**. NeuroImage: Clinical, 19, 652–660. 
+Fu, J. F., <u>Klyuzhin</u>, I., Liu, S., Shahinfard, E., Vafai, N., McKenzie, J., … Sossi, V. (2018). **Investigation of serotonergic Parkinson’s disease-related covariance pattern using [11C]-DASB/PET**. NeuroImage: Clinical, 19, 652–660. 
 <https://doi.org/10.1016/j.nicl.2018.05.022>
+Keywords: ?
 
 Klyuzhin, I. S., Fu, J. F., Hong, A., Sacheli, M., Shenkov, N., Matarazzo, M., … Sossi, V. (2018). **Data-driven, voxel-based analysis of brain PET images: Application of PCA and LASSO methods to visualize and quantify patterns of neurodegeneration**. PloS One, 13(11), e0206607. 
 https://doi.org/10.1371/journal.pone.0206607
+Keywords: ?
 
 Klyuzhin, I. S., Fu, J. F., Shenkov, N., Rahmim, A., & Sossi, V. (2018). **Use of Generative Disease Models for Analysis and Selection of Radiomic Features in PET**. IEEE Transactions on Radiation and Plasma Medical Sciences, 1–1. 
 https://doi.org/10.1109/TRPMS.2018.2844171
+*Keywords:*Machine learning, Computational modeling, Image analysis, Feature selection, Biomedical imaging, Radiomics, Generative models, Positron emission tomography, Parkinson, Disease.
 
 Klyuzhin, I. S., & Sossi, V. (2017). **PET Image Reconstruction and Deformable Motion Correction Using Unorganized Point Clouds**. IEEE Transactions on Medical Imaging, 36(6), 1263–1275. 
 https://doi.org/10.1109/TMI.2017.2675989
