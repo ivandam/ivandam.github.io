@@ -8,11 +8,12 @@ redirect_from:
 
 Fu, J. F., Klyuzhin, I., Liu, S., Shahinfard, E., Vafai, N., McKenzie, J., … Sossi, V. (2018). **Investigation of serotonergic Parkinson’s disease-related covariance pattern using [11C]-DASB/PET**. NeuroImage: Clinical, 19, 652–660. 
 <https://doi.org/10.1016/j.nicl.2018.05.022>
+
 <small>*Keywords: Pattern recognition, Data mining, Covariance analysis, Principal component analysis, Machine learning, Positron emission tomography, Neuroscience, Serotonergic system, Parkinson, Disease.*</small>
 
 Klyuzhin, I. S., Fu, J. F., Hong, A., Sacheli, M., Shenkov, N., Matarazzo, M., … Sossi, V. (2018). **Data-driven, voxel-based analysis of brain PET images: Application of PCA and LASSO methods to visualize and quantify patterns of neurodegeneration**. PloS One, 13(11), e0206607. 
 <https://doi.org/10.1371/journal.pone.0206607>
-<small>*Keywords: Principal component analysis, Regularized regression, Sparse representation, Dimensionality reduction, Pattern extraction, Covariance analysis, Machine learning, Brain imaging, Image analysis.*</small>
+<br><small>*Keywords: Principal component analysis, Regularized regression, Sparse representation, Dimensionality reduction, Pattern extraction, Covariance analysis, Machine learning, Brain imaging, Image analysis.*</small>
 
 Klyuzhin, I. S., Fu, J. F., Shenkov, N., Rahmim, A., & Sossi, V. (2018). **Use of Generative Disease Models for Analysis and Selection of Radiomic Features in PET**. IEEE Transactions on Radiation and Plasma Medical Sciences, 1–1. 
 <https://doi.org/10.1109/TRPMS.2018.2844171>
