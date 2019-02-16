@@ -6,6 +6,9 @@ redirect_from:
   - /conferences.html
 ---
 
+Tang, J., Yang, B., Shenkov, N. N., <u>Klyuzhin</u>, I. S., Fotouhi, S., Davoodi-Bojd, E., Lu, L., Soltanian-Zadeh, H., Sossi, V., Rahmim, A. (2019). **Artificial neural network based prediction of outcome in Parkinson’s disease patients using DaTscan SPECT imaging features**. Molecular Imaging and Biology, *in press*.
+<small>*Keywords: Machine learning, Predictive models, Artificial neural network, Feature selection, SPECT, Medical imaging, Radiomics, Parkinson, Disease.*</small>
+
 Fu, J. F., <u>Klyuzhin</u>, I., Liu, S., Shahinfard, E., Vafai, N., McKenzie, J., … Sossi, V. (2018). **Investigation of serotonergic Parkinson’s disease-related covariance pattern using [11C]-DASB/PET**. NeuroImage: Clinical, 19, 652–660. 
 <https://doi.org/10.1016/j.nicl.2018.05.022>  
 <small>*Keywords: Pattern recognition, Data mining, Covariance analysis, Principal component analysis, Machine learning, Positron emission tomography, Neuroscience, Serotonergic system, Parkinson, Disease.*</small>
