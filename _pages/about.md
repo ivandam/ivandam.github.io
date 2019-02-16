@@ -4,7 +4,7 @@ title: "About"
 excerpt: "About"
 author_profile: true
 sidebar:
-- text: "<a class="twitter-timeline" href="https://twitter.com/IvanKlyuzhin?ref_src=twsrc%5Etfw">Tweets by IvanKlyuzhin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>"
+- text: <a class="twitter-timeline" href="https://twitter.com/IvanKlyuzhin?ref_src=twsrc%5Etfw">Tweets by IvanKlyuzhin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 redirect_from: 
   - /about/
   - /about.html
