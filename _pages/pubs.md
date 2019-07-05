@@ -10,13 +10,15 @@ redirect_from:
 <small>*Keywords: Dynamic PET, Denoising, Neural network, Machine learning, Deep learning, Kinetic modeling.*</small>
 
 Salmanpour, M. R., Shamsaei, M., Saberi, A., Setayeshi, S., <u>Klyuzhin</u>, I. S., Sossi, V., Rahmim. A. (2019). **Optimized Machine Learning Methods for Prediction of Cognitive Outcome in Parkinson's Disease**. Computers in Biology and Medicine, *in press*.
-<!-- <small>*Keywords: Dynamic PET, Denoising, Neural network, Machine learning, Deep learning, Kinetic modeling.*</small> -->
 
-<!-- 
-TRPMS Vesna paper
-Jessie paper
-Arman's other paper (motor outcomes)
--->
+Sossi, V., Cheng, J-C., <u>Klyuzhin</u>, I. S. (2019). **Imaging in Neurodegeneration: Movement Disorders**. IEEE Transactions on Radiation and Plasma Medical Sciences, 3(3), 262-274.
+<https://doi.org/10.1109/TRPMS.2018.2871760>  
+<small>*Brain function, Data quantification, Denoising, Hybrid positron emission tomography (PET), Magnetic resonance imaging (MRI), Image feature and connectivity analysis, Molecular imaging, Movement disorders, Neurodegeneration*</small>
+
+Fu, J. F., <u>Klyuzhin</u>, I. S., McKenzie, J., Neilson, N., Shahinfard, E., Dinelle, K., McKeown, M.J., Stoessl, A.J., Sossi, V. (2019). **Joint pattern analysis applied to PET DAT and VMAT2 imaging reveals new insights into Parkinson's disease induced presynaptic alterations**. NeuroImage: Clinical, 23, 101856.
+<https://doi.org/10.1016/j.nicl.2019.101856>
+<small>*Keywords: Data fusion, Dopamine, Parkinson's disease, Pattern analysis, Positron emission tomography.*</small>
+
 Tang, J., Yang, B., Shenkov, N. N., <u>Klyuzhin</u>, I. S., Fotouhi, S., Davoodi-Bojd, E., Lu, L., Soltanian-Zadeh, H., Sossi, V., Rahmim, A. (2019). **Artificial neural network based prediction of outcome in Parkinson’s disease patients using DaTscan SPECT imaging features**. Molecular Imaging and Biology, *in press*.  
 <small>*Keywords: Machine learning, Predictive models, Artificial neural network, Feature selection, SPECT, Medical imaging, Radiomics, Parkinson, Disease.*</small>
 
