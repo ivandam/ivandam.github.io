@@ -9,7 +9,7 @@ redirect_from:
 <u>Klyuzhin</u>, I. S., Cheng, J-C., Bevington, C., Sossi, V. (2019). **Use of a Tracer-specific Deep Artificial Neural Net to Denoise Dynamic PET Images**. IEEE Transactions on Medical Imaging, *in press*.
 <small>*Keywords: Dynamic PET, Denoising, Neural network, Machine learning, Deep learning, Kinetic modeling.*</small>
 
-Salmanpour, M. R., Shamsaei, M., Saberi, A., Setayeshi, S., <u>Klyuzhin</u>, I. S., Sossi, V., Rahmim. A. **Optimized Machine Learning Methods for Prediction of Cognitive Outcome in Parkinson's Disease**. Computers in Biology and Medicine, *in press*.
+Salmanpour, M. R., Shamsaei, M., Saberi, A., Setayeshi, S., <u>Klyuzhin</u>, I. S., Sossi, V., Rahmim. A. (2019). **Optimized Machine Learning Methods for Prediction of Cognitive Outcome in Parkinson's Disease**. Computers in Biology and Medicine, *in press*.
 <!-- <small>*Keywords: Dynamic PET, Denoising, Neural network, Machine learning, Deep learning, Kinetic modeling.*</small> -->
 
 <!-- 
