@@ -13,7 +13,7 @@ Salmanpour, M. R., Shamsaei, M., Saberi, A., Setayeshi, S., <u>Klyuzhin</u>, I. 
 
 Sossi, V., Cheng, J-C., <u>Klyuzhin</u>, I. S. (2019). **Imaging in Neurodegeneration: Movement Disorders**. IEEE Transactions on Radiation and Plasma Medical Sciences, 3(3), 262-274.
 <https://doi.org/10.1109/TRPMS.2018.2871760>  
-<small>*Keywords: Brain function, Data quantification, Denoising, Hybrid positron emission tomography (PET), Magnetic resonance imaging (MRI), Image feature and connectivity analysis, Molecular imaging, Movement disorders, Neurodegeneration*</small>
+<small>*Keywords: Brain function, Data quantification, Denoising, Hybrid positron emission tomography (PET), Magnetic resonance imaging (MRI), Image feature and connectivity analysis, Molecular imaging, Movement disorders, Neurodegeneration.*</small>
 
 Fu, J. F., <u>Klyuzhin</u>, I. S., McKenzie, J., Neilson, N., Shahinfard, E., Dinelle, K., McKeown, M.J., Stoessl, A.J., Sossi, V. (2019). **Joint pattern analysis applied to PET DAT and VMAT2 imaging reveals new insights into Parkinson's disease induced presynaptic alterations**. NeuroImage: Clinical, 23, 101856.
 <https://doi.org/10.1016/j.nicl.2019.101856>  
