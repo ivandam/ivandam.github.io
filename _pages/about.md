@@ -10,6 +10,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an inter-disciplinary researcher with interests that lie at the intersection of Computer science, Physics and Medicine. Currently, I am appointed as a Postdoctoral fellow at the UBC Department of Medicine, [Division of Neurology](http://neurology.med.ubc.ca), where I develop novel image analysis techniques and apply machine learning to identify promising therapies for Parkinson’s disease.
+I am an inter-disciplinary researcher with interests that lie at the intersection of Computer science, Physics and Medicine. Currently, I am appointed as a Postdoctoral fellow at the UBC Department of Medicine, [Division of Neurology](http://neurology.med.ubc.ca), where I develop novel machine-learning based image analysis techniques.
 
 My main place of work is at the [Djavad Mowafaghian Centre for Brain Health](http://www.brain.ubc.ca).
+
+My CV is available [here](http://www.ivankz.com/files/cv_master.pdf) (pdf).
