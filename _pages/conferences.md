@@ -6,6 +6,44 @@ redirect_from:
   - /conferences.html
 ---
 
+## 2019
+
+I. S. <u>Klyuzhin</u>, C. Bevington, J.-C. Cheng, V. Sossi, 
+"**Identification of transient neurotransmitter response using anomaly detection framework**", 
+2019 IEEE Nuclear Science Symposium and Medical Imaging (NSS/MIC) Conference, Manchester, United Kingdom, 2019 (**accepted**).
+
+J.-C. Cheng, C. Bevington, I. <u>Klyuzhin</u>, V. Sossi,
+"**Simultaneously improving accuracy and precision within dynamic kernelized PET reconstruction**",
+2019 IEEE Nuclear Science Symposium and Medical Imaging (NSS/MIC) Conference, Manchester, United Kingdom, 2019 (**accepted**).
+
+J. F. Fu, M. Matarazzo, I. <u>Klyuzhin</u>, J.-C. Cheng, C. Bevington, J. McKenzie, N. Neilson, E. Shahinfard, M. J. McKeown, A. J. Stoessl, V. Sossi,
+"**Relative preservation of serotonergic function increases response to treatment in early PD**",
+International Congress of Parkinson's Disease and Movement Disorders, 2019, Nice, France (**accepted**);
+
+I. S. <u>Klyuzhin</u>, C. Bevington, J.-C. Cheng, V. Sossi, 
+"**Use of deep learning and physics simulations for personalized medical image enhancement**", 
+Deep Learning and Reinforcement Learning Summer School, 2019, Edmonton, AB (**accepted**).
+
+J. Kim, S. Seo, S. Ashrafinia, A. Rahmim, V. Sossi, I. S. <u>Klyuzhin</u>,
+"**Training of deep convolutional neural nets to extract radiomic signatures of tumors**", 
+Society of Nuclear Medicine and Molecular Imaging (SNMMI) Annual Meeting, 2019, Anaheim, CA, USA;
+
+M. Matarazzo, I. <u>Klyuzhin</u>, J. A. Pineda-Pardo, Z. Anderson, J. McKenzie, N. Neilson, J. A. Obeso, V. Sossi, A. J. Stoessl,
+"**Dopaminergic denervation in people with PD is higher in the striatal region corresponding to the upper limb**",
+World Parkinson Congress, 2019, Kyoto, Japan. 
+
+M. R. Salmanpour, M. Shamsaee, A. Saberi Manesh, S. Setayeshi, I. S. <u>Klyuzhin</u>, V. Sossi, A. Rahmim,
+"**Optimized machine learning methods for prediction of cognitive outcome in Parkinson's disease**", 
+Society of Nuclear Medicine and Molecular Imaging (SNMMI) Annual Meeting, 2019, Anaheim, CA, USA;
+
+J. F. Fu, M. Matarazzo, I. <u>Klyuzhin</u>, B. Reber, J.-C. Cheng, C. Bevington, J. McKenzie, N. Neilson, E. Shahinfard, M. J. McKeown, A. J. Stoessl, V. Sossi,
+"**Joint multimodal analysis revealed complementary spatial patterns of dopaminergic and serotonergic interactions related to levodopa response in parkinson's disease**", 
+Brain \& Brain PET 2019, Yokohama, Japan;
+
+J. F. Fu, I. <u>Klyuzhin</u>, J. McKenzie, N. Neilson, E. Shahinfard, K. Dinelle, M. J. McKeown, A. J. Stoessl, V. Sossi,
+"**Joint pattern analysis applied to PET DAT and VMAT2 imaging reveals new insights into Parkinson's disease induced presynaptic alterations**",
+Brain \& Brain PET 2019, Yokohama, Japan;
+
 ## 2018
 
 I. S. <u>Klyuzhin</u>, J.-C. Cheng, C. Bevington, V. Sossi, 
