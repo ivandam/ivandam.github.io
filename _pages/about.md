@@ -16,7 +16,7 @@ I am currently appointed as a Postdoctoral fellow at the UBC Department of Medic
 
 My main place of work is at the [Djavad Mowafaghian Centre for Brain Health](http://www.brain.ubc.ca) and [Pacific Parkinson's Research Centre](https://parkinsons.ubc.ca/wp/).
 
-Over the past decade, my research and interests have shifted from fundamental biological physics to applied technology in healthcare, including computer vision and machine learning -enabled app[lications. My CV is available [here](http://www.ivankz.com/files/cv_master.pdf) (pdf).
+Over the past decade, my research and interests have shifted from fundamental biological physics to applied technology in healthcare, including computer vision and machine learning -enabled applications. My CV is available [here](http://www.ivankz.com/files/cv_master.pdf) (pdf).
 
 **My past notable projects include:**
 
@@ -27,5 +27,5 @@ Over the past decade, my research and interests have shifted from fundamental bi
 + At the University of Washington, my colleagues and I developed a new technology to purify water from micrometer-sized particulates, such as bacteria and topsoil particles (I. Klyuzhin et al, “New Method of Water Purification Based on the Particle-Exclusion Phenomenon”). The advantage of our technology was that it required very little energy to run, compared to the traditional filter-based methods. This project was brought to prominence by a news article in [New Scientist](https://www.newscientist.com/article/dn14324-dirt-repelling-tube-promises-cheap-pure-water/), and picked up by several other news feeds around the world.
 
 + Our work on the water non-coalescence phenomenon at the University of Washington (I. Klyuzhin et al., “Persisting Water Droplets on Water Surfaces”) was featured in a [Smarter Every Day video](https://www.youtube.com/watch?v=KJDEsAy9RyM&feature=share).
-
-<a class="twitter-timeline" href="https://twitter.com/IvanKlyuzhin?ref_src=twsrc%5Etfw">Tweets by IvanKlyuzhin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<small>
+<a class="twitter-timeline" href="https://twitter.com/IvanKlyuzhin?ref_src=twsrc%5Etfw">Twitter Feed</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></small>
