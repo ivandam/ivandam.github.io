@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an inter-disciplinary researcher with interests that lie at the intersection of Computer science, Physics and Medicine. 
+I am an inter-disciplinary researcher with interests that lie at the intersection of Computer science, Physics and Medicine 2. 
 
 I am currently appointed as a Postdoctoral fellow at the UBC Department of Medicine, [Division of Neurology](http://neurology.med.ubc.ca), where I develop novel machine-learning based PET/MRI image analysis techniques.
 
