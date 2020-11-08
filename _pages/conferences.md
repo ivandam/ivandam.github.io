@@ -47,7 +47,7 @@ redirect_from:
     on Functional Neuroreceptor Mapping of the Living Brain (NRM), 2020,
     Montreal, Canada \[*accepted, cancelled due to Covid-19*\]
 
-    \vspace{8pt}
+
 -   **2019**
 
 -   I. S. *Klyuzhin*, C. Bevington, J.-C. Cheng, V. Sossi,
@@ -103,7 +103,7 @@ redirect_from:
     into Parkinson's disease induced presynaptic alterations**, Brain &
     Brain PET 2019, Yokohama, Japan.
 
-    \vspace{8pt}
+
 -   **2018**
 
 -   I. S. *Klyuzhin*, J.-C. Cheng, C. Bevington, V. Sossi, **Use of a 4D
@@ -150,7 +150,7 @@ redirect_from:
     and Molecular Imaging Annual Meeting, Philadelphia, PA, USA; J.
     Nucl. Med., vol. 59 (suppl. 1): 29, 2018.
 
-    \vspace{8pt}
+
 -   **2017**
 
 -   I. *Klyuzhin*, N. Vafai, E. Shahinfard, V. Sossi, **The impact of
@@ -193,7 +193,7 @@ redirect_from:
     Movement Disorders, Vancouver, BC, Canada; Mov Disord. 2017; 32
     (suppl 2).
 
-    \vspace{8pt}
+
 -   **2016**
 
 -   M. A. Sacheli, B. Lakhani, J. L. Neva, D. K. Murray, N. Vafai, J.
@@ -235,7 +235,7 @@ redirect_from:
     Society of Nuclear Medicine and Molecular Imaging (SNMMI), San
     Diego, CA, Jun 11-15, 2016.
 
-    \vspace{8pt}
+
 -   **2015**
 
 -   I. *Klyuzhin*, G. Stortz, V. Sossi, **Development of a Digital
@@ -278,7 +278,7 @@ redirect_from:
     Academy of Dermatology Annual Meeting, San Francisco, CA, May
     8, 2015.
 
-    \vspace{8pt}
+
 -   **2014**
 
 -   G. Stortz, M. D. Walker, I. *Klyuzhin*, V. Sossi, **Advanced Arc
@@ -304,7 +304,7 @@ redirect_from:
     Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)
     Record, Seattle, WA, Nov 8, 2014.
 
-    \vspace{8pt}
+
 -   **2013 and earlier**
 
 -   I. *Klyuzhin*, M. Gonzalez, V. Sossi, **Investigating the effect of
