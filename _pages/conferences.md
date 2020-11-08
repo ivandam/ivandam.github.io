@@ -6,7 +6,7 @@ redirect_from:
   - /conferences.html
 ---
 
--   **2020**
+**2020**
 
 -   R. Fedrigo, D. Kadrmas, P. Edem, L. Fougner, I. *Klyuzhin*, M. P.
     Petric, F. Bénard, A. Rahmim, C. Uribe, **Optimization of
@@ -48,7 +48,7 @@ redirect_from:
     Montreal, Canada \[*accepted, cancelled due to Covid-19*\]
 
 
--   **2019**
+**2019**
 
 -   I. S. *Klyuzhin*, C. Bevington, J.-C. Cheng, V. Sossi,
     **Identification of transient neurotransmitter response using
@@ -104,7 +104,7 @@ redirect_from:
     Brain PET 2019, Yokohama, Japan.
 
 
--   **2018**
+**2018**
 
 -   I. S. *Klyuzhin*, J.-C. Cheng, C. Bevington, V. Sossi, **Use of a 4D
     Deep Autoencoder to Denoise Dynamic PET Data**, 2018 IEEE Nuclear
@@ -151,7 +151,7 @@ redirect_from:
     Nucl. Med., vol. 59 (suppl. 1): 29, 2018.
 
 
--   **2017**
+**2017**
 
 -   I. *Klyuzhin*, N. Vafai, E. Shahinfard, V. Sossi, **The impact of
     parameter bound selection in the simplified reference tissue method
@@ -194,7 +194,7 @@ redirect_from:
     (suppl 2).
 
 
--   **2016**
+**2016**
 
 -   M. A. Sacheli, B. Lakhani, J. L. Neva, D. K. Murray, N. Vafai, J.
     McKenzie, N. Neilson, K. Dinelle, I. S. *Klyuzhin*, L. A. Boyd, V.
@@ -236,7 +236,7 @@ redirect_from:
     Diego, CA, Jun 11-15, 2016.
 
 
--   **2015**
+**2015**
 
 -   I. *Klyuzhin*, G. Stortz, V. Sossi, **Development of a Digital
     Unrestrained Mouse Phantom with Non-Periodic Deformable Motion**,
@@ -279,7 +279,7 @@ redirect_from:
     8, 2015.
 
 
--   **2014**
+**2014**
 
 -   G. Stortz, M. D. Walker, I. *Klyuzhin*, V. Sossi, **Advanced Arc
     Correction to Improve Sinogram Consistency and Increase Contrast in
@@ -305,7 +305,7 @@ redirect_from:
     Record, Seattle, WA, Nov 8, 2014.
 
 
--   **2013 and earlier**
+**2013 and earlier**
 
 -   I. *Klyuzhin*, M. Gonzalez, V. Sossi, **Investigating the effect of
     inter-modality ROI shape on the correlation between clinical and
