@@ -10,14 +10,29 @@ redirect_from:
   - /about.html
 ---
 
-I am an inter-disciplinary researcher with interests that lie at the intersection of Computer science, Physics and Medicine. 
+Welcome! I am a researcher in the field of medical imaging, which combines Physics, Medicine and Computer Science.
+I am particularly interested in machine learning applications in imaging, and in promoting a wider use of imaging and AI for early disease detection and treatment. 
+My CV is available [here](http://www.ivankz.com/files/cv_master.pdf) (pdf).
 
-I am currently appointed as a Postdoctoral fellow at the UBC Department of Medicine, [Division of Neurology](http://neurology.med.ubc.ca), where I develop novel machine-learning based PET/MRI image analysis techniques.
+***Current employment and affiliations:***
 
-My main place of work is at the [Djavad Mowafaghian Centre for Brain Health](http://www.brain.ubc.ca) and [Pacific Parkinson's Research Centre](https://parkinsons.ubc.ca/wp/).
++ Research programmer at the BC Cancer Research Institute 
+Quantitative Radiomolecular Imaging and Therapy [(QURIT) Lab](https://qurit.ca)
 
-Over the past decade, my research and interests have shifted from fundamental biological physics to applied technology in healthcare, including computer vision and machine learning -enabled applications. My CV is available [here](http://www.ivankz.com/files/cv_master.pdf) (pdf).
++ Postdoctoral intern at Microsoft, [AI for Health](https://www.microsoft.com/en-us/ai/ai-for-health) program
 
++ Postdoctoral fellow, UBC Department of Radiology
+
+**UPDATES**
+
+Our latest preprint is now available on medRxiv:
+"Testing the Ability of Convolutional Neural Networks to Learn Radiomic Features"
+https://www.medrxiv.org/content/10.1101/2020.09.19.20198077v1
+
+
+
+
+<!-- 
 **My past notable projects include:**
 
 + Our study of the effect of exercise on dopamine release in the brain of Parkinson’s disease patients was selected as a “hot topic” at the 2016 Neuroscience Meeting in San Diego (Sacheli et al., “Aerobic exercise can induce dopamine release in Parkinson’s disease: [11C]Raclopride PET study”). The study used state-of-the-art image analysis techniques that were developed by our imaging group at UBC. More info about this study can be found in [this](https://www.med.ubc.ca/news/study-of-exercise-and-parkinsons-disease-yields-encouraging-results/) UBC press release, as well as in [Richmond News](http://www.richmond-news.com/news/weekly-feature/treating-parkinson-s-with-exercise-1.2302652). Also, take a look at [this](http://www.theglobeandmail.com/news/british-columbia/bc-boxing-classes-help-people-with-parkinsons-disease-fight-back/article30732463/) relevant article in The Globe and Mail.
@@ -26,4 +41,4 @@ Over the past decade, my research and interests have shifted from fundamental bi
 
 + At the University of Washington, my colleagues and I developed a new technology to purify water from micrometer-sized particulates, such as bacteria and topsoil particles (I. Klyuzhin et al, “New Method of Water Purification Based on the Particle-Exclusion Phenomenon”). The advantage of our technology was that it required very little energy to run, compared to the traditional filter-based methods. This project was brought to prominence by a news article in [New Scientist](https://www.newscientist.com/article/dn14324-dirt-repelling-tube-promises-cheap-pure-water/), and picked up by several other news feeds around the world.
 
-+ Our work on the water non-coalescence phenomenon at the University of Washington (I. Klyuzhin et al., “Persisting Water Droplets on Water Surfaces”) was featured in a [Smarter Every Day video](https://www.youtube.com/watch?v=KJDEsAy9RyM&feature=share).
++ Our work on the water non-coalescence phenomenon at the University of Washington (I. Klyuzhin et al., “Persisting Water Droplets on Water Surfaces”) was featured in a [Smarter Every Day video](https://www.youtube.com/watch?v=KJDEsAy9RyM&feature=share). -->
