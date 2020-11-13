@@ -40,7 +40,7 @@ Our latest preprint is now available on medRxiv:
 
 
 
-<img src="http://www.ivankz.com/images/qurit_logo.png" alt="Qurit Lab">
+<img src="http://www.ivankz.com/images/qurit-logo.png" alt="Qurit Lab">
 
 
 <!-- 
