@@ -22,6 +22,9 @@ main:
     
   - title: "CV"
     url: http://www.ivankz.com/files/cv_master.pdf
+
+  - title: "Past projects"
+    url: /projects/
     
  # - title: "Guide"
  #   url: /markdown/
